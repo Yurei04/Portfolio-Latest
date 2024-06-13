@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+//Greetings if you are reading this pardon it it seems that next.js framework cannot be hosted by Github for some reason.
+//Thank you for understanding and just check the code if applicable.
 
 ## Getting Started
 
